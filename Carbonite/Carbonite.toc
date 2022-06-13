@@ -2,7 +2,7 @@
 ## Title: Carbonite 3.34 RUS
 ## Version: 3.34
 ## Author: Carbon Based Creations, LLC
-## Notes: Локализировал sairrysh. Перевод Scorp
+## Notes: Локализировал sairrysh. Перевод Scorp, fix for sirus Ritual
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: NxData, NxCombatOpts, NxMapOpts
